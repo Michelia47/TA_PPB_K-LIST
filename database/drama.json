@@ -1,0 +1,201 @@
+{
+    "dramas":[
+        {
+            "id": 1,
+            "judul": "Reborn Rich",
+            "genre": "Business, Drama, Fantasy",
+            "episode": "16",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang Yoon Hyun-Woo yang telah bekerja untuk Grup Soonyang selama lebih dari 10 tahun yang dituduh melakukan penggelapan. Sehingga kemudian dia dibunuh oleh Jin Do-Joon yang merupakan putra bungsu dari Grup Soonyang. Namun, Yoon Hyun-Woo menemukan dirinya dalam tubuh Jin Do-Joon dan dia memutuskan untuk membalas dendam pada keluarga Grup Soonyang.",    
+            "img" : "https://i.mydramalist.com/Rqp66_4s.jpg",
+            "cast" : "Song Joong Ki, Lee Sung Min, Shin Hyun Bin, Yoon Je Moon sebagai Jin Young Ki, Kim Jung Nan, dan Jo Han Chul"       
+        },
+        {
+            "id": 2,
+            "judul": "Revenge of Others",
+            "genre": "Action, Drama, Life, Youth",
+            "episode": "12",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang seorang siswi SMA yang bernama Ok Chan Mi. Ok Chan Mi merupakan seorang penembak dan aktif melakukan kompetisi. Namun, suatu hari, ia menemukan saudara kembarnya meninggal. Karena merasa ada kejanggalan, ia pun menyelidiki kematiannya. Hingga akhirnya, ia terlibat dengan seorang pria muda bernama Ji Soo Heon yang membantunya, namun memiliki niat untuk balas dendam.",    
+            "img" : "https://i.mydramalist.com/BX7AA_4s.jpg",      
+            "cast" : "Shin Ye-Eun, Lomon, Seo Ji-Hoon, Chae Sang-Woo, Lee Soo-Min, Chung Su-Bin, Kim Joo-Ryung, dan Woo Yeon"
+        },
+        {
+            "id": 3,
+            "judul": "Weak Hero Class 1",
+            "genre": "Action, Drama, Youth",
+            "episode": "8",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang Yeon Shi Eun , seorang siswa yang dikenal sebagai sosok yang teladan. Namun, walaupun tampak memiliki fisik yang lemah, ia ternyata bisa memanfaatkan kecerdasan dengan baik untuk melawan musuhnya. Suatu hari, ia harus menghadapi kekerasan yang terjadi di dalam dan luar sekolah dengan mengendalikan emosinya.",    
+            "img" : "https://i.mydramalist.com/pq2lr_4s.jpg",   
+            "cast" : "Park Ji Hoon, Choi Hyun Wook, Hong Kyung, dan Kim Su Gyeom"
+        },
+        {
+            "id": 4,
+            "judul": "Summer Strike",
+            "genre": "Drama, Life",
+            "episode": "12",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang kehidupan Lee Yeo Reum yang diharuskan menghadapi kejadian terburuk dalam hidupnya. Lee Yeo Reum kemudian membuat keputusan untuk menjalani kehidupan yang benar-benar berbeda dari sebelumnya dan tidak melakukan apapun. Dia berhenti dari pekerjaannya dan pindah ke sebuah desa kecil, di mana segala sesuatu terasa aneh baginya. Di sana, dia bertemu dengan penduduk, termasuk An Dae Beom, dan mengenal mereka. ",    
+            "img" : "https://i.mydramalist.com/eOwPK_4s.jpg",
+            "cast" : "Im Si Wan dan Seol Hyun"               
+        },
+        {
+            "id": 5,
+            "judul": "Please Send a Fan Letter",
+            "genre": "Comedy, Romance",
+            "episode": "4",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang pertemuan Han Gang Hee dan Bang Jung Seok. Han Gang Hee merupakan seorang aktris populer yang mendapat sebuah surat dari penggemarnya yang mengubah hidupnya dalam sekejap. Sedangkan Bang Jung Seok adalah seorang ayah tunggal yang membesarkan putrinya seorang diri. Namun, putrinya menderita leukemia dan memiliki sebuah keinginan.",    
+            "img" : "https://i.mydramalist.com/4veBZ_4s.jpg",
+            "cast" : "Choi Soo Young, Yoon Park, dan Shin Yeon Woo"          
+        },
+        {
+            "id": 6,
+            "judul": "The First Responders",
+            "genre": "Action, Drama, Thriller",
+            "episode": "12",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang kesatuan gabungan lapangan antara polisi, petugas pemadam kebakaran, dan paramedis yang bekerja sama menanggapi adegan sengit antara kejahatan, bencana dan keadaan darurat.",    
+            "img" : "https://i.mydramalist.com/XnW5J_4s.jpg",
+            "cast" : "Kim Rae Won, Son Ho Jun, dan Gong Seung Yeon"       
+        },
+        {
+            "id": 7,
+            "judul": "May I Help You",
+            "genre": "Fantasy, Romance",
+            "episode": "16",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang pertemuan antara dua orang dengan prinsip hidup yang berbeda. Baek Dong-Ju yang bekerja sebagai direktur pemakaman. Dia memiliki kemampuan khusus yang memungkinkan dia untuk melihat dan berbicara dengan orang mati. Sedangkan Kim Jib-Sa adalah seorang karyawan di layanan tugas “Ildangbaek” yang melakukan pekerjaan kecil untuk kliennya.",    
+            "img" : "https://i.mydramalist.com/6RqNX_4s.jpg",
+            "cast" : "Hyeri dan Lee Joon Young"        
+        },
+        {
+            "id": 8,
+            "judul": "Cheer Up",
+            "genre": "Comedy, Mystery, Romance",
+            "episode": "16",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang Do Hae-Yi seorang mahasiswa di Universitas Yeonhee. Dia adalah orang yang cerdas dan rajin namun memiliki kondisi ekonomi yang buruk. Suatu hari, ia bergabung dengan klub regu sorak hanya untuk uang. Namun, ia justru mengalami kegembiraan kehidupan kampus dan bertemu dengan berbagi teman baru. Tetapi, tidak hanya kegembiraan, ia harus menghadapi banyak teror selama berada di klub regu sorak tersebut.",    
+            "img" : "https://i.mydramalist.com/xVg8E_4s.jpg",
+            "cast" : "Han Ji Hyun, Park Min Ha, Bae In Hyuk, Kim Hyun Jin, Jang Gyu Ri, Lee Eun Saem, dan Yang Dong Geun"                  
+        },
+        {
+            "id": 9,
+            "judul": "Bad Prosecutor",
+            "genre": "Legal",
+            "episode": "16",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang seorang jaksa bernama Jin Jung dengan perilaku buruk dan kenakalan. Dia menghancurkan tempat-tempat suci yang diciptakan oleh kekayaan dan kekuasaan, dan dia bahkan menghancurkan orang-orang serakah. Dia akan berdiri di sisi yang lemah dan berperang melawan yang jahat, menegakkan keadilan.",    
+            "img" : "https://i.mydramalist.com/Xnvxn_4s.jpg",
+            "cast" : "Doh Kyung Soo dan Lee Se Hee"                
+        },
+        {
+            "id": 10,
+            "judul": "Blind",
+            "genre": "Crime, Mystery, Thriller",
+            "episode": "16",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang Ryu Sung Joon, Ryu Sung Hoon, dan Jo Eun Ki terlibat dalam kasus pembunuhan berantai yang melibatkan anggota juri sebagai korban. Ketiga individu ini mencoba mengungkap kebenaran di balik setiap kematian yang terjadi.",    
+            "img" : "https://i.mydramalist.com/x3qE0_4s.jpg",
+            "cast" : "Ok Taec Yeon, Ha Seok Jin, dan Jeong Eun Ji"                 
+        },
+        {
+            "id": 11,
+            "judul": "May It Please the Court",
+            "genre": "Drama, Law, Mystery",
+            "episode": "12",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang No Chak-Hee yang bekerja untuk firma hukum besar. Dia diatur untuk menerima promosi ke posisi mitra, tetapi masalah terjadi pada kasus yang dia terima. Karena ini, dia hampir diskors selama satu tahun. Namun, No Chak-Hee mulai bekerja sebagai pembela umum. Ia berharap bisa kembali ke posisinya di firma hukum tempatnya bekerja sebelumnya. Sebagai pembela umum, dia berbagi kantor dengan sesama pembela umum Jwa Shi-Baek.",    
+            "img" : "https://i.mydramalist.com/jkwdw_4s.jpg",
+            "cast" : "Jung Ryeo Won, Lee Kyu Hyung, Jung Jin Young, Kim Hye Eun, Kim Sang Ho, Park So Jin, Go Kyu Pil, Hong Seo Joon, Lee Sang Hee"                
+        },
+        {
+            "id": 12,
+            "judul": "Little Women",
+            "genre": "Family",
+            "episode": "12",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang tiga saudara perempuan dengan ikatan dekat yang tumbuh dalam kemiskinan. Oh In Joo adalah seorang anak sulung yang ingin melindungi keluarganya dengan uang. Tumbuh dalam kemiskinan yang ekstrem, satu-satunya impiannya adalah hidup sebaik orang normal lainnya, tetapi sebuah insiden besar benar-benar mengguncang hidupnya.",    
+            "img" : "https://i.mydramalist.com/R6Nkr_4s.jpg",
+            "cast" : "Kim Go Eun, Nam Ji Hyun, Park Ji Hoo, dan Wi Ha Joon"                
+        },
+        {
+            "id": 13,
+            "judul": "Good Job",
+            "genre": "Mystery, Romance, Supernatural, Thriller",
+            "episode": "12",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang Eun Sun Woo yang merupakan pemilik grup Eunkang dan menjalankan agen detektif. Eun Sun Woo bertemu dengan Don Se Ra yang merupakan orang yang ceria yang terlahir dengan penglihatan super. Untuk menyembunyikan kekuatannya, Don Se Ra berkeliling memakai kacamata tebal untuk diam-diam menggunakan kemampuannya. Mereka akhirnya bekerja sama untuk mengungkap kasus pembunuhan ibu Eun Sun Woo.",    
+            "img" : "https://i.mydramalist.com/6644W_4s.jpg",
+            "cast" : "Jung Il-Woo, Kwon Yuri, Eum Moon-Suk, Song Sang-Eun, Jo Young-Jin, Yoon Sun-Woo, Lee Joon-Hyuk, Cha Rae-Hyoung"              
+        },
+        {
+            "id": 14,
+            "judul": " If You Wish Upon Me",
+            "genre": "Drama, Life, Medical",
+            "episode": "16",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang kehidupan Yoon Gyeo Rye yang sangat sulit dipenuhi dengan banyak hal tidak terduga. Dia tinggal di panti asuhan dan menghabiskan waktu di pusat penahanan remaja dan penjara. Selain itu, dia berjuang untuk memiliki kehidupan yang normal. Namun karena sebuah insiden, ia mulai menjadi sukarelawan di sebuah rumah sakit. Saat berada sana, ia bekerja dengan pemimpin tim sukarelawan Kang Tae Sik dan Perawat Seo Yeon Joo.",    
+            "img" : "https://i.mydramalist.com/q4pyP_4s.jpg",
+            "cast" : "Ji Chang Wook, Choi Soo Young, Sung Dong Il, dan Won Ji An"                              
+        },
+        {
+            "id": 15,
+            "judul": "Once Upon a Small Town",
+            "genre": "Comedy, Romance",
+            "episode": "12",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang pertemuan kembali antara Han Ji Yool yang bekerja sebagai dokter hewan di Seoul dan Ahn Ja Young yang bekerja sebagai petugas polisi di Desa Heedong. Pertemuan mereka diselingi dengan banyak kejadian tak terduga yang membuat mereka terkadang harus bertengkar.",    
+            "img" : "https://i.mydramalist.com/rPj2j_4s.jpg",
+            "cast" : "Joy, Choo Young Woo, Baek Sung Chul, Ha Yul Ri, Jung Suk Yong, dan Baek Ji Won"                            
+        },
+        {
+            "id": 16,
+            "judul": "Big Mouth",
+            "genre": "Crime, Legal",
+            "episode": "16",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang Park Chang-Ho yang bekerja sebagai pengacara dengan tingkat kemenangan 10%. Dia adalah orang yang banyak bicara dan, karena itu orang-orang memanggilnya Mulut Besar. Dia kebetulan terlibat dalam kasus pembunuhan dan entah bagaimana dia dianggap sebagai penipu jenius Big Mouse. Di sisi lain ada Go Mi-Ho yang merupakan istri Park Chang-Ho yang bekerja sebagai perawat. Dia memiliki penampilan yang cantik dan kepribadian yang bijaksana dan berani. Dia membantu suaminya menjadi pengacara dengan mendukungnya secara finansial dan psikologis. Go Mi-Ho mengetahui bahwa Park Chang-Ho dicurigai sebagai penipu jenius Big Mouse dan berusaha membersihkan nama suaminya.",    
+            "img" : "https://i.mydramalist.com/Ee5EO_4s.jpg",
+            "cast" : "Lee Jong Suk dan Im Yoon Ah"                            
+        },
+        {
+            "id": 17,
+            "judul": "Poong, the Joseon Psychiatrist",
+            "genre": "Action, Comedy, Medical, Romance",
+            "episode": "12",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang Yoo Se-Poong yang adalah seorang dokter untuk keluarga kerajaan. Dia menjadi terlibat dalam konspirasi keluarga kerajaan. Ini mengarah pada pengusirannya dari istana kerajaan dan dia mulai bekerja di Desa Gyesu yang aneh namun indah. Di sana, Yoo Se-Poong bertemu dengan Seo Eun-Woo dan Gye Ji-Han. Yoo Se-Poong berkembang menjadi seorang dokter yang merawat penyakit fisik pasien dan juga rasa sakit mental mereka.",    
+            "img" : "https://i.mydramalist.com/EenEO_4s.jpg",
+            "cast" : "Kim Min Jae, Kim Hyang Gi, dan Kim Sang Kyung"                            
+        },
+        {   "id": 18,
+            "judul": "Alchemy of Souls",
+            "genre": "Action, Fantasy, Historical, Romance",
+            "episode": "20",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang sebuah negara fiksi bernama Daeho yang tidak ada dalam sejarah atau di peta, ini tentang cinta dan pertumbuhan para penyihir muda saat mereka mengatasi nasib buruk mereka.",    
+            "img" : "https://i.mydramalist.com/Beg4z_4s.jpg",
+            "cast" : "Lee Jae Wook, Jung So Min, Hwang Min Hyun, Moon Seong Hyun, Shin Seung Ho, Yoo Joon Sang, Oh Na Ra, dan Jo Jae Yoon"                   
+        },
+        {   "id": 19,
+            "judul": "Cafe Minamdang",
+            "genre": "Action, Comedy, Crime, Legal, Romance",
+            "episode": "16",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang Nam Han-Joon yang adalah mantan profiler kriminal, yang sekarang bekerja sebagai penipu. Untuk penipuannya, dia menyamar sebagai peramal dan menjalankan toko peramal Minamdang. Mitra Nam Han-Joon adalah Soo-Cheol dan Nam Hye-Joon. Soo-Cheol menjalankan agen detektif swasta dan Nam Hye-Joon adalah adik perempuan Nam Han-Joon. Di sisi lain ada Han Jae-Hee yang telah bekerja sebagai detektif selama 3 tahun. Entah bagaimana, Han Jae-Hee terlibat dengan Nam Han-Joon.",    
+            "img" : "https://i.mydramalist.com/ZnjVY_4s.jpg",
+            "cast" : "Seo In Guk, Oh Yeon Seo, Kwak Si Yang, Kang Mi Na, dan Kwon Soo Hyun"                   
+        },
+        {   "id": 20,
+            "judul": "Extraordinary Attorney Woo",
+            "genre": "Comedy, Legal, Romance",
+            "episode": "16",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang Woo Young-Woo yang sangat cerdas dan dia juga memiliki gangguan spektrum autisme. Dia tidak pernah melupakan apa yang dia lihat, tetapi dia kurang dalam keterampilan sosial dan empati. Woo Young-Woo mulai bekerja sebagai pengacara magang di sebuah firma hukum besar. Saat bekerja di sana, dia menghadapi prasangka dan irasionalitas terhadapnya, tetapi dia memecahkan kasus dengan perspektif uniknya sendiri dan tumbuh sebagai pengacara.",    
+            "img" : "https://i.mydramalist.com/dgJJz_4s.jpg",
+            "cast" : "Park Eun-Bin, Kang Tae-Oh, Kang Ki-Young, Jeon Bae-Su, Baek Ji-Won, Jin Kyung, Joo Hyun-Young, Ha Yoon-Kyung, dan Joo Jong-Hyuk"                   
+        }   
+    ]
+}
